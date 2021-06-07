@@ -21,6 +21,8 @@ Left Click - Attack with current *Guard Direction*
 Shift + Spacebar - Roll in movement direction
 Spacebar - Parry dash. When well timed and blocking in the correct direction will *Parry* instead of *Block*. A bug currently makes this useless as enemies will not be any more penalized being parried than when being blocked.
 
-## Currently it is recommended you mostly use rolls and blocking. Be aware that the game is really difficult especially if you have never played Mount & Blade and / or Dark Souls. If I was to continue on this game concept I would probably start from scratch and build a much better set of learning challenges and in game guides for new players.
+## Currently it is recommended you mostly use rolls and blocking. Be aware that the game is really difficult especially if you have never played Mount & Blade and / or Dark Souls. The plan is to eventually start from scratch and build a much better set of learning challenges and in game guides for new players.
 
 The game has no further content after the first boss ("Firewall"). If you do beat it simply leave the game using alt+f4.
+
+Making this took me to nearly ever corner of the engine, hence why the gameplay itself was not a major focus - most of my time was spent on research and testing, with a lot of it not yielding much fruit for this particular project.
